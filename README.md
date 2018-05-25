@@ -3,7 +3,7 @@ A collection of awesome papers about graph processing.
 
 ## Categories
 ### Single & Memory
-- **GraphLab** - `GraphLab: A New Framework For Parallel Machine Learning` (UAI'10). [[paper]](https://dslpitt.org/papers/10/p340-low.pdf)``
+- **GraphLab** - `GraphLab: A New Framework For Parallel Machine Learning` (UAI'10). [[paper]](https://dslpitt.org/papers/10/p340-low.pdf)
 
 ### Distributed & Memory
 - **Pregel** - `Pregel: A System for Large-Scale Graph Processing` (SIGMOD'10). [[paper]](https://kowshik.github.io/JPregel/pregel_paper.pdf)
