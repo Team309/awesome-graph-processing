@@ -13,6 +13,7 @@ A collection of awesome papers about graph processing.
 - **Pregel** - `Pregel: A System for Large-Scale Graph Processing` (SIGMOD'10). [[paper]](https://kowshik.github.io/JPregel/pregel_paper.pdf)
 - **Distributed GraphLab** - `Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud` (VLDB'12). [[paper]](http://vldb.org/pvldb/vol5/p716_yuchenglow_vldb2012.pdf)
 - **PowerGraph** - `PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs` (OSDI'12). [[paper]](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf), [[code]](https://github.com/jegonzal/PowerGraph)
+- **Mizan** - `Mizan: A System for Dynamic Load Balancing in Large-scale Graph Processing` (EuroSys'13). [[paper]](http://www.cs.cornell.edu/~djwill/pubs/mizan.pdf), [[code]](https://github.com/khayyatzy/Mizan)
 - **Blogel** - `Blogel: A Block-Centric Framework for Distributed Computation on Real-World Graphs` (VLDB'14). [[paper]](http://people.csail.mit.edu/yilu/papers/p1981-yan.pdf), [[code]](http://www.cse.cuhk.edu.hk/blogel/)
 - **Giraph++** - `From "Think Like a Vertex" to "Think Like a Graph"` (VLDB'14). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/TBCTM13.pdf)
 - **GraphX** - `GraphX: Graph Processing in a Distributed Dataflow Framework` (OSDI'14). [[paper]](https://www.usenix.org/node/186217), [[code]](https://spark.apache.org/graphx/)
@@ -31,6 +32,7 @@ A collection of awesome papers about graph processing.
 
 ### Distributed & Storage
 - **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/Chaos.pdf), [[code]](https://github.com/epfl-labos/chaos)
+- **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
 
 
 ## License
