@@ -23,8 +23,11 @@ A collection of awesome papers about graph processing.
 ### Single & Storage
 - **GraphChi** - `GraphChi: Large-Scale Graph Computation on Just a PC` (OSDI'12). [[paper]](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf), [[code]](https://github.com/GraphChi/graphchi-cpp)
 - **X-Stream** - `X-Stream: Edge-centric Graph Processing using Streaming Partitions` (SOSP'13). [[paper]](https://infoscience.epfl.ch/record/188535/files/paper.pdf), [[code]](https://github.com/epfl-labos/x-stream)
+- **TurboGraph** - `TurboGraph: A Fast Parallel Graph Engine Handling Billion-scale Graphs in a Single PC` (KDD'13). [[paper]](http://www.eiti.uottawa.ca/~nat/Courses/csi5387_Winter2014/paper1.pdf)
+- **PathGraph** - `Fast Iterative Graph Computation: A Path Centric Approach` (SC'14). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/PathGraph.pdf), [[code]](https://github.com/CGCL-codes/PathGraph)
 - **GridGraph** - `GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning` (USENIX ATC'15). [[paper]](https://www.usenix.org/system/files/conference/atc15/atc15-paper-zhu.pdf), [[code]](https://github.com/thu-pacman/GridGraph)
 - **VENUS** - `VENUS: Vertex-Centric Streamlined Graph Computation on a Single PC` (ICDE'15). [[paper]](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/ICDE15_Venus.pdf)
+- **FlashGraph** - `FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs` (FAST'15). [[paper]](https://www.usenix.org/system/files/conference/fast15/fast15-paper-zheng.pdf), [[code]](https://github.com/Smerity/FlashGraph)
 
 ### Distributed & Storage
 - **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/Chaos.pdf), [[code]](https://github.com/epfl-labos/chaos)
