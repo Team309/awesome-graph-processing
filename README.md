@@ -15,7 +15,7 @@ A collection of awesome papers about graph processing.
 - **PowerGraph** - `PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs` (OSDI'12). [[paper]](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf), [[code]](https://github.com/jegonzal/PowerGraph)
 - **Mizan** - `Mizan: A System for Dynamic Load Balancing in Large-scale Graph Processing` (EuroSys'13). [[paper]](http://www.cs.cornell.edu/~djwill/pubs/mizan.pdf), [[code]](https://github.com/khayyatzy/Mizan)
 - **Blogel** - `Blogel: A Block-Centric Framework for Distributed Computation on Real-World Graphs` (VLDB'14). [[paper]](http://people.csail.mit.edu/yilu/papers/p1981-yan.pdf), [[code]](http://www.cse.cuhk.edu.hk/blogel/)
-- **Giraph++** - `From "Think Like a Vertex" to "Think Like a Graph"` (VLDB'14). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/TBCTM13.pdf)
+- **Giraph++** - `From "Think Like a Vertex" to "Think Like a Graph"` (VLDB'14). [[paper]](https://researcher.watson.ibm.com/researcher/files/us-ytian/giraph++.pdf)
 - **GraphX** - `GraphX: Graph Processing in a Distributed Dataflow Framework` (OSDI'14). [[paper]](https://www.usenix.org/node/186217), [[code]](https://spark.apache.org/graphx/)
 - **PowerLyra** - `PowerLyra: Differentiated Graph Computation and Partitioning on Skewed Graphs` (EuroSys'15). [[paper]](https://ipads.se.sjtu.edu.cn/lib/exe/fetch.php?media=publications:powerlyra-eurosys15.pdf), [[code]](https://github.com/realstolz/powerlyra)
 - **Gemini** - `Gemini: A Computation-Centric Distributed Graph Processing System` (OSDI'16). [[paper]](https://www.usenix.org/system/files/conference/osdi16/osdi16-zhu.pdf), [[code]](https://github.com/thu-pacman/GeminiGraph)
