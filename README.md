@@ -33,7 +33,7 @@ A collection of awesome papers about graph processing.
 - **FlashGraph** - `FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs` (FAST'15). [[paper]](https://www.usenix.org/system/files/conference/fast15/fast15-paper-zheng.pdf), [[code]](https://github.com/Smerity/FlashGraph)
 
 ### Distributed & Storage
-- **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/Chaos.pdf), [[code]](https://github.com/epfl-labos/chaos)
+- **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2017_2018/papers/roy_sosp_2015.pdf), [[code]](https://github.com/epfl-labos/chaos)
 - **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
 
 
