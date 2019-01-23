@@ -20,6 +20,7 @@ A collection of awesome papers about graph processing.
 - **Giraph++** - `From "Think Like a Vertex" to "Think Like a Graph"` (VLDB'14). [[paper]](https://researcher.watson.ibm.com/researcher/files/us-ytian/giraph++.pdf)
 - **GraphX** - `GraphX: Graph Processing in a Distributed Dataflow Framework` (OSDI'14). [[paper]](https://www.usenix.org/node/186217), [[code]](https://spark.apache.org/graphx/)
 - **PowerLyra** - `PowerLyra: Differentiated Graph Computation and Partitioning on Skewed Graphs` (EuroSys'15). [[paper]](https://ipads.se.sjtu.edu.cn/lib/exe/fetch.php?media=publications:powerlyra-eurosys15.pdf), [[code]](https://github.com/realstolz/powerlyra)
+- **PowerSwith** - `SYNC or ASYNC: Time to Fuse forDistributed Graph-Parallel Computation` (PPoPP'15). [[paper]](https://ipads.se.sjtu.edu.cn/_media/publications/powerswitch-ppopp15.pdf)
 - **Gemini** - `Gemini: A Computation-Centric Distributed Graph Processing System` (OSDI'16). [[paper]](https://www.usenix.org/system/files/conference/osdi16/osdi16-zhu.pdf), [[code]](https://github.com/thu-pacman/GeminiGraph)
 - **GRAPE** - `Parallelizing Sequential Graph Computations` (SIGMOD'17). [[paper]](http://homepages.inf.ed.ac.uk/wenfei/papers/sigmod17-GRAPE.pdf)
 
