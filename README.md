@@ -14,6 +14,7 @@ A collection of awesome papers about graph processing.
 - **Pregel** - `Pregel: A System for Large-Scale Graph Processing` (SIGMOD'10). [[paper]](https://kowshik.github.io/JPregel/pregel_paper.pdf)
 - **Distributed GraphLab** - `Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud` (VLDB'12). [[paper]](http://vldb.org/pvldb/vol5/p716_yuchenglow_vldb2012.pdf)
 - **PowerGraph** - `PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs` (OSDI'12). [[paper]](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf), [[code]](https://github.com/jegonzal/PowerGraph)
+- **GPS** - `GPS: A Graph Processing System` (SSDBM). [[paper]](http://ilpubs.stanford.edu:8090/1039/7/gps_ssdbm.pdf)
 - **Mizan** - `Mizan: A System for Dynamic Load Balancing in Large-scale Graph Processing` (EuroSys'13). [[paper]](http://www.cs.cornell.edu/~djwill/pubs/mizan.pdf), [[code]](https://github.com/khayyatzy/Mizan)
 - **Blogel** - `Blogel: A Block-Centric Framework for Distributed Computation on Real-World Graphs` (VLDB'14). [[paper]](http://people.csail.mit.edu/yilu/papers/p1981-yan.pdf), [[code]](http://www.cse.cuhk.edu.hk/blogel/)
 - **Giraph++** - `From "Think Like a Vertex" to "Think Like a Graph"` (VLDB'14). [[paper]](https://researcher.watson.ibm.com/researcher/files/us-ytian/giraph++.pdf)
