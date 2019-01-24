@@ -38,6 +38,9 @@ A collection of awesome papers about graph processing.
 - **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
 - **TurboGraph++** - `TurboGraph++: A Scalable and Fast Graph Analytics System` (SIGMOD'18). [[paper]]()
 
+## References
+1. [Papers on Graph Aanlytics](https://people.csail.mit.edu/jshun/graph.shtml)
+
 
 ## License
 
