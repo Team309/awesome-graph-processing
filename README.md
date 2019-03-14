@@ -2,6 +2,7 @@
 A collection of awesome papers about graph processing.
 
 ## Categories
+
 ### Single & Memory
 - **GraphLab** - `GraphLab: A New Framework For Parallel Machine Learning` (UAI'10). [[paper]](https://dslpitt.org/papers/10/p340-low.pdf)
 - **Galois** - `A Lightweight Infrastructure for Graph Analytics` (SOSP'13). [[paper]](http://sigops.org/sosp/sosp13/papers/p456-nguyen.pdf)
@@ -32,15 +33,34 @@ A collection of awesome papers about graph processing.
 - **GridGraph** - `GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning` (USENIX ATC'15). [[paper]](https://www.usenix.org/system/files/conference/atc15/atc15-paper-zhu.pdf), [[code]](https://github.com/thu-pacman/GridGraph)
 - **VENUS** - `VENUS: Vertex-Centric Streamlined Graph Computation on a Single PC` (ICDE'15). [[paper]](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/ICDE15\_Venus.pdf)
 - **FlashGraph** - `FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs` (FAST'15). [[paper]](https://www.usenix.org/system/files/conference/fast15/fast15-paper-zheng.pdf), [[code]](https://github.com/Smerity/FlashGraph)
+- **Graphene** - `Graphene: Fine-Grained IO Management for Graph Computing` (FAST'17). [[paper]](https://www.usenix.org/system/files/conference/fast17/fast17-liu.pdf), [[slides]](https://www.usenix.org/sites/default/files/conference/protected-files/fast17\_slides\_liu.pdf), [[code]](https://github.com/iHeartGraph/Graphene)
+- **Mosaic**  - `Mosaic: Processing a Trillion-Edge Graph on a Single Machine` (EuroSys'17). [[paper]](https://taesoo.kim/pubs/2017/maass:mosaic.pdf), [[slides]](https://taesoo.kim/pubs/2017/maass:mosaic-slides.pdf), [[code]](https://github.com/sslab-gatech/mosaic)
+- **pre-processing trade-off** - `Everything you always wanted to know about multicore graph processing but were afraid to ask` (ATC'17). [[paper]](https://www.usenix.org/system/files/conference/atc17/atc17-malicevic.pdf), [[slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc17_slides_malicevic.pdf), [[code]](https://github.com/epfl-labos/EverythingGraph.git)
+- **GraFBoost** - `GraFBoost: Accelerated Flash Storage for External Graph Analytics` (ISCA'18). [[paper]](http://people.csail.mit.edu/wjun/papers/isca2018-camera.pdf), [[code]](https://github.com/sangwoojun/sortreduce)
 
 ### Distributed & Storage
 - **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244\_2017\_2018/papers/roy\_sosp\_2015.pdf), [[code]](https://github.com/epfl-labos/chaos)
 - **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
 - **TurboGraph++** - `TurboGraph++: A Scalable and Fast Graph Analytics System` (SIGMOD'18). [[paper]]()
 
+## Courses and Tutorials
+
+- [Large Scale Network Analytics with SNAP](http://snap.stanford.edu/proj/snap-www/)
+- [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/)
+- [6.886: Graph Analytics at MIT](https://people.csail.mit.edu/jshun/6886-s18/)
+
+## Benckmarks and Challenges
+
+- [The Graph 500 List](http://graph500.org/)
+- [The High Performance Conjugate Gradients (HPCG)](http://hpcg-benchmark.org/)
+- [GraphChallenge](https://graphchallenge.mit.edu/challenges)
+
 ## References
 1. [Papers on Graph Aanlytics](https://people.csail.mit.edu/jshun/graph.shtml)
 
+## Awesome Graph Database
+
+[A curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph)
 
 ## License
 
