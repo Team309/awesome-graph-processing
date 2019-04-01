@@ -40,6 +40,7 @@ A collection of awesome papers about graph processing.
 - **pre-processing trade-off** - `Everything you always wanted to know about multicore graph processing but were afraid to ask` (ATC'17). [[paper]](https://www.usenix.org/system/files/conference/atc17/atc17-malicevic.pdf), [[slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc17_slides_malicevic.pdf), [[code]](https://github.com/epfl-labos/EverythingGraph.git)
 - **CLIP** - `Squeezing out All the Value of Loaded Data: An Out-of-core Graph Processing System with Reduced Disk I/O` (ATC'17). [[paper]](https://www.usenix.org/system/files/conference/atc17/atc17-ai.pdf), [[slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc17_slides_ai.pdf), [[author]](https://github.com/james0zan)
 - **GraFBoost** - `GraFBoost: Accelerated Flash Storage for External Graph Analytics` (ISCA'18). [[paper]](http://people.csail.mit.edu/wjun/papers/isca2018-camera.pdf), [[code]](https://github.com/sangwoojun/sortreduce)
+- **GraphOne** - `GraphOne: A Data Store for Real-time Analytics on Evolving Graphs` (FAST'19). [[paper]](https://www.usenix.org/conference/fast19/presentation/kumar), [[code]](https://github.com/pradeep-k/GraphOne)
 
 ### Distributed & Storage
 - **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244\_2017\_2018/papers/roy\_sosp\_2015.pdf), [[code]](https://github.com/epfl-labos/chaos)
