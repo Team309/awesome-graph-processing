@@ -47,6 +47,12 @@ A collection of awesome papers about graph processing.
 - **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
 - **TurboGraph++** - `TurboGraph++: A Scalable and Fast Graph Analytics System` (SIGMOD'18). [[paper]]()
 
+### Embedding, Representation Learning, and Deep Learning on Graphs
+
+- [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+- [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
+- [Deep Learning on Graphs: a roadmap](https://github.com/guillaumejaume/graph-neural-networks-roadmap)
+
 ## Courses and Tutorials
 
 - [Large Scale Network Analytics with SNAP](http://snap.stanford.edu/proj/snap-www/)
@@ -68,8 +74,6 @@ A collection of awesome papers about graph processing.
 - [A curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph)
 - [Graph Database Acceleration Survey](https://github.com/Liu-Cheng/graph-database-accel-survey)
 - [Primitives & Graph Processing](https://github.com/RapidsAtHKUST/PrimitivesAndGraphProcessing-GPU)
-- [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
-- [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 
 ## License
