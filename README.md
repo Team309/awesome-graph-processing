@@ -49,6 +49,9 @@ A collection of awesome papers about graph processing.
 
 ### Embedding, Representation Learning, and Deep Learning on Graphs
 
+- **graph2vec** - `graph2vec: Learning Distributed Representations of Graphs` ([MLG](http://www.mlgworkshop.org)'17, Held in conjunction with KDD). [[paper]](http://www.mlgworkshop.org/2017/paper/MLG2017_paper_21.pdf), [[arxiv]](https://arxiv.org/abs/1707.05005v1), [[code]](https://github.com/benedekrozemberczki/graph2vec)
+- **GraphSage** - `GraphSage: Representation Learning on Large Graphs` (NIPS'17). [[paper]](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf), [[arxiv]](https://arxiv.org/pdf/1706.02216.pdf), [[code]](https://github.com/williamleif/GraphSAGE), [[pytorch version]](https://github.com/williamleif/graphsage-simple/), [[project]](http://snap.stanford.edu/graphsage/)
+- **graph2gauss** - `Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking` (ICLR'18). [[paper]](https://openreview.net/forum?id=r1ZdKJ-0W), [[code]](https://github.com/abojchevski/graph2gauss)
 - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
 - [Deep Learning on Graphs: a roadmap](https://github.com/guillaumejaume/graph-neural-networks-roadmap)
@@ -61,9 +64,6 @@ A collection of awesome papers about graph processing.
 
 ## Benckmarks and Challenges
 
-- **graph2vec** - `graph2vec: Learning Distributed Representations of Graphs` ([MLG](http://www.mlgworkshop.org)'17, Held in conjunction with KDD). [[paper]](http://www.mlgworkshop.org/2017/paper/MLG2017_paper_21.pdf), [[arxiv]](https://arxiv.org/abs/1707.05005v1), [[code]](https://github.com/benedekrozemberczki/graph2vec)
-- **GraphSage** - `GraphSage: Representation Learning on Large Graphs` (NIPS'17). [[paper]](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf), [[arxiv]](https://arxiv.org/pdf/1706.02216.pdf), [[code]](https://github.com/williamleif/GraphSAGE), [[pytorch version]](https://github.com/williamleif/graphsage-simple/), [[project]](http://snap.stanford.edu/graphsage/)
-- **graph2gauss** - `Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking` (ICLR'18). [[paper]](https://openreview.net/forum?id=r1ZdKJ-0W), [[code]](https://github.com/abojchevski/graph2gauss)
 - [The Graph 500 List](http://graph500.org/)
 - [The High Performance Conjugate Gradients (HPCG)](http://hpcg-benchmark.org/)
 - [GraphChallenge](https://graphchallenge.mit.edu/challenges)
