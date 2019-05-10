@@ -11,6 +11,7 @@ A collection of awesome papers about graph processing.
 - **Polymer** - `NUMA-Aware Graph-Structured Analytics` (PPoPP'15). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/Polymer.pdf), [[code]](https://github.com/realstolz/polymer)
 - **GraphMat** - `GraphMat: High performance graph analytics made productive` (VLDB'15). [[paper]](https://pdfs.semanticscholar.org/b513/711621e81d0abd042e0877ca751581a993f5.pdf), [[code]](https://github.com/narayanan2004/GraphMat)
 - **Graph Ordering** - `Speedup Graph Processing by Graph Ordering` (SIGMOD'16). [[paper]](https://dl.acm.org/citation.cfm?id=2915220), [[slides]](https://people.csail.mit.edu/jshun/6886-s18/lectures/lecture13-3.pdf), [[code]](https://github.com/RapidsAtHKUST/GraphReorderAndConverter)
+- **GPOP** - `GPOP: A cache and memory-efficient framework for Graph Processing Over Partitions` (PPoPP'19 *poster*). [[poster]](https://ppopp19.sigplan.org/event/ppopp-2019-posters-poster-gpop-a-cache-and-memory-efficient-framework-for-graph-processing-over-partitions), [[arxiv]](https://arxiv.org/abs/1806.08092v1), [[code]](https://github.com/souravpati/GPOP)
 
 ### Distributed & Memory
 - **Pregel** - `Pregel: A System for Large-Scale Graph Processing` (SIGMOD'10). [[paper]](https://kowshik.github.io/JPregel/pregel\_paper.pdf)
@@ -45,7 +46,8 @@ A collection of awesome papers about graph processing.
 ### Distributed & Storage
 - **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244\_2017\_2018/papers/roy\_sosp\_2015.pdf), [[code]](https://github.com/epfl-labos/chaos)
 - **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
-- **TurboGraph++** - `TurboGraph++: A Scalable and Fast Graph Analytics System` (SIGMOD'18). [[paper]]()
+- **TurboGraph++** - `TurboGraph++: A Scalable and Fast Graph Analytics System` (SIGMOD'18). [[paper]](https://dl.acm.org/citation.cfm?doid=3183713.3196915)
+- **GraphD** - `GraphD: Distributed Vertex-Centric Graph Processing Beyond the Memory Limit` (TPDS'18). [[paper]](https://ieeexplore.ieee.org/document/8016377), [[code]](https://github.com/yaobaiwei/GraphD)
 
 ### Embedding, Representation Learning, and Deep Learning on Graphs
 
