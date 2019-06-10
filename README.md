@@ -57,6 +57,7 @@ A collection of awesome papers about graph processing.
 - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
 - [Deep Learning on Graphs: a roadmap](https://github.com/guillaumejaume/graph-neural-networks-roadmap)
+- [Dynamic Knowledge Graph Completion](https://github.com/woojeongjin/dynamic-KG)
 
 ## Courses and Tutorials
 
