@@ -78,6 +78,7 @@ A collection of awesome papers about graph processing.
 
 ## More Awesome Graph Lists
 
+- [A curated list of awesome network analysis resources](https://github.com/briatte/awesome-network-analysis)
 - [A curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph)
 - [Graph Database Acceleration Survey](https://github.com/Liu-Cheng/graph-database-accel-survey)
 - [Primitives & Graph Processing](https://github.com/RapidsAtHKUST/PrimitivesAndGraphProcessing-GPU)
